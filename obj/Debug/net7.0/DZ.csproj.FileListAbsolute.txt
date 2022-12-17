@@ -1,0 +1,15 @@
+D:\DZ\bin\Debug\net7.0\DZ.exe
+D:\DZ\bin\Debug\net7.0\DZ.deps.json
+D:\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+D:\DZ\bin\Debug\net7.0\DZ.dll
+D:\DZ\bin\Debug\net7.0\DZ.pdb
+D:\DZ\obj\Debug\net7.0\DZ.csproj.AssemblyReference.cache
+D:\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+D:\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+D:\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+D:\DZ\obj\Debug\net7.0\DZ.dll
+D:\DZ\obj\Debug\net7.0\refint\DZ.dll
+D:\DZ\obj\Debug\net7.0\DZ.pdb
+D:\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+D:\DZ\obj\Debug\net7.0\ref\DZ.dll
