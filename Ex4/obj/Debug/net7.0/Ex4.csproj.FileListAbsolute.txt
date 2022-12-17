@@ -1,0 +1,15 @@
+D:\DZ\Ex4\bin\Debug\net7.0\Ex4.exe
+D:\DZ\Ex4\bin\Debug\net7.0\Ex4.deps.json
+D:\DZ\Ex4\bin\Debug\net7.0\Ex4.runtimeconfig.json
+D:\DZ\Ex4\bin\Debug\net7.0\Ex4.dll
+D:\DZ\Ex4\bin\Debug\net7.0\Ex4.pdb
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.csproj.AssemblyReference.cache
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfoInputs.cache
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfo.cs
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.csproj.CoreCompileInputs.cache
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.dll
+D:\DZ\Ex4\obj\Debug\net7.0\refint\Ex4.dll
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.pdb
+D:\DZ\Ex4\obj\Debug\net7.0\Ex4.genruntimeconfig.cache
+D:\DZ\Ex4\obj\Debug\net7.0\ref\Ex4.dll
